@@ -9,17 +9,11 @@ Anlat is a mobile app that connects clients with psychologists and lets them tal
 
 > This is a showcase repository. Anlat is a client project, so its source code is private; this page describes what the app does and how it is built.
 
-<!--
 ## Screenshots
 
-Add PNGs to docs/screenshots/ and uncomment this section.
+<img src="docs/screenshots/app-screens.png" width="100%" alt="Four Anlat screens: therapy packages, psychologist profile with appointment toggle, home dashboard, and chat list.">
 
-<p>
-  <img src="docs/screenshots/counselors.png" width="240" alt="Psychologist listings">
-  <img src="docs/screenshots/chat.png" width="240" alt="Real-time chat">
-  <img src="docs/screenshots/appointment.png" width="240" alt="Appointment request">
-</p>
--->
+<sub>Therapy packages · Psychologist profile · Home · Chats (from the Google Play listing)</sub>
 
 ## What it does
 
